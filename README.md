@@ -13,29 +13,6 @@ A web-based **Multiple Disease Prediction System** that uses machine learning to
 
 ---
 
-## ⚙️ How to Run the App
-
-### 🔧 Prerequisites
-
-- Python 3.7+
-- `pip` installed
-
-### 🛠️ Installation
-
-\`\`\`bash
-git clone https://github.com/your-username/multiple-disease-predictor.git
-cd multiple-disease-predictor
-pip install -r requirements.txt
-\`\`\`
-
-### ▶️ Run the App
-
-\`\`\`bash
-streamlit run app.py
-\`\`\`
-
----
-
 ## 🧪 ML Models Used
 
 Each model is a classification model trained on publicly available datasets.
