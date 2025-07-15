@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 🧑‍⚕️ Multiple Disease Prediction System
 
 A web-based **Multiple Disease Prediction System** that uses machine learning to predict the likelihood of **Diabetes**, **Heart Disease**, and **Parkinson's Disease**. Built with **Streamlit**, this app provides an easy-to-use interface for early detection and health insights.
